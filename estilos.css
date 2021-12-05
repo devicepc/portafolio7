@@ -244,7 +244,7 @@ nav ul {
     display: none;
   }
 .cajamailto{
-  background: #fff;
+  border: solid 1px #fc7e68;
   height: 150px;
   margin-top: 20px;
 
@@ -834,6 +834,9 @@ footer .creado-por a:hover {text-decoration: underline;}
 	header .barra-busqueda {
 		width: 100%;
 	}
+  .formGoogle{
+    width: 100%;
+  }
 }
 
 @media screen and (max-width : 528px){
